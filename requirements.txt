@@ -1,0 +1,9 @@
+sympy
+pyqrcode
+pypng
+pyzbar
+pillow
+mysql-connector-python
+django
+flask
+schedule
